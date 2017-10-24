@@ -1,5 +1,6 @@
 void setup() {
-  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT); // WD
+  pinMode(13, OUTPUT); // WD
   pinMode(14, INPUT); // Pao
 }
 
