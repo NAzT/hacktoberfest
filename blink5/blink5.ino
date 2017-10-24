@@ -1,7 +1,5 @@
 void setup() {
-  // put your setup code here, to run once:
-  // my name is pao
-
+  pinMode(13, OUTPUT);
 }
 
 void loop() {
